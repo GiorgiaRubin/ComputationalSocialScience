@@ -1,3 +1,5 @@
+import seaborn as sns
+
 #Keyword search results --> art: 261 , eth: 128 , sold: 123 , price: 119 , nftart: 69 , nftartist: 29
 
 #Creation of the function needed for the implementation of the seaborn plot
