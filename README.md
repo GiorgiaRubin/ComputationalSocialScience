@@ -8,20 +8,14 @@ How do people talk about them on Twitter, one of the most used social platforms 
 Python
 
 # Libraries used
-Twitter API and tweets managment:
-  -os
-  -tweepy
-  -pandas
-  -re
+Twitter API and tweets management: os / tweepy / pandas / re
 
 Choice of Keywords:
   -nltk
   -stopwords
   -collections
   -counter
-  -wordcloud
-  -matplotlib.pyplot
-  -count_bboxes_overlapping_box
+  -wordcloud / matplotlib.pyplot / count_bboxes_overlapping_box
   
 Network graph:
   -network
