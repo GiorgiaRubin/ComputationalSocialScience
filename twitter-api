@@ -1,3 +1,8 @@
+import os
+import tweepy as tw
+import pandas as pd
+import re
+
 #Define the keys
 consumer_key = 'enteryourpersonalkey'
 consumer_secret_key= 'enteryourpersonalkey'
